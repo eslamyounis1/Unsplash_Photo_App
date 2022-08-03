@@ -1,0 +1,1 @@
+export 'package:photo_app/modules/photos_screen/photos_screen.dart';
